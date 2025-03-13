@@ -47,9 +47,6 @@
         <mxCell id="GxAemJXF_QGfhOwOy-kH-8" value="Sacar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-44" y="-375" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GxAemJXF_QGfhOwOy-kH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GxAemJXF_QGfhOwOy-kH-9" target="GxAemJXF_QGfhOwOy-kH-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GxAemJXF_QGfhOwOy-kH-9" value="Transferir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-44" y="-314" width="125" height="50" as="geometry" />
         </mxCell>
