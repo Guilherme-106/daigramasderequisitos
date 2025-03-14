@@ -182,7 +182,7 @@
           <mxGeometry x="50" y="558" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Df3wSzDKpOP-La8-ANA0-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="155" y="50" width="30" height="70" as="geometry" />
+          <mxGeometry x="160" y="47" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Df3wSzDKpOP-La8-ANA0-4" value="Hotel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="609" y="50" width="30" height="70" as="geometry" />
@@ -304,6 +304,9 @@
             <mxPoint x="591" y="295" as="sourcePoint" />
             <mxPoint x="605" y="98" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NAyNhvWMjs9HX_sWLAZr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Df3wSzDKpOP-La8-ANA0-3" target="Df3wSzDKpOP-La8-ANA0-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
